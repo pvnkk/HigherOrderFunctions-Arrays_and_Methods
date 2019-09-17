@@ -1,2 +1,11 @@
 # HigherOrderFunctions-Arrays_and_Methods
-About forEach, map, filter and sort
+
+This is tutorial about:
+- For
+- forEach
+- map
+- sort
+- filter
+
+Given exmples in old js & new es6 formats of code.
+Check out code: https://codesandbox.io/s/higherorderfunctions-arraysandmethods-oxod5
