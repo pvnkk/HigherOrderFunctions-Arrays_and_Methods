@@ -7,5 +7,5 @@ This is tutorial about:
 - sort
 - filter
 
-Given exmples in old js & new es6 formats of code.  
+Given exmples in old & new es6 formats of code.  
 Check out code: https://codesandbox.io/s/higherorderfunctions-arraysandmethods-oxod5
