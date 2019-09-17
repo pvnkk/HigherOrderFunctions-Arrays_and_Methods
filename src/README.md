@@ -1,4 +1,4 @@
-                                                    - Array helper functions - 
+                                                    ** Array helper functions **
 
 * forEach:
   Executes the provided function for each element of the array,
