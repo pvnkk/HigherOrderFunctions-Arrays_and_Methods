@@ -8,4 +8,4 @@ This is tutorial about:
 - filter
 
 Given exmples in old & new es6 formats of code.  
-Check out code: https://codesandbox.io/s/higherorderfunctions-arraysandmethods-oxod5
+
